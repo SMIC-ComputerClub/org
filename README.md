@@ -1,2 +1,2 @@
 # org
-This repository is to explain the system of SMIC computer club 
+This repository is for explaining the system of SMIC computer club. 
